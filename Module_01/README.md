@@ -26,3 +26,4 @@ Business users have an access to all Data by using I Business Intelligence tools
 
 There can be one more layer - Processing/ Computer Layer - for data transormation before loading to a storage.
 
+[The Link to my Architecture Solution]()
